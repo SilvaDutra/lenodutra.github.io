@@ -14,7 +14,6 @@ Bem-vindo ao meu portfólio online! Aqui você encontra meus projetos, habilidad
 
 ## 📲 Contato
 - 📧 E-mail: [lenodutra@gmail.com](mailto:lenodutra@gmail.com)
-- 📱 WhatsApp: [(99) 98466-7037](https://wa.me/5599984667037)
 - 📸 Instagram: [@lennodutra](https://www.instagram.com/lennodutra/)
 
 ➡️ **Veja meu site profissional**: [https://lenodutra.github.io](https://lenodutra.github.io)
